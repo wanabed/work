@@ -7,6 +7,6 @@ package Period2_javaweb.jdbcDemo;
  */
 public class hellogit {
     public static void main(String[] args) {
-        System.out.println("随便改改");
+        System.out.println("随便改改吧");
     }
 }
